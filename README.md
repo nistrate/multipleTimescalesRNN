@@ -1,7 +1,7 @@
 The following instructions are for linux users :
 
 
-clone the repository on your local machine L git clone https://github.com/nistrate/multipleTimescalesRNN.git
+clone the repository on your local machine: git clone https://github.com/nistrate/multipleTimescalesRNN.git
 
 from terminal open the folder: cd multipleTimescalesRNN
 
