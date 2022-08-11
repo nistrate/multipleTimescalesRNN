@@ -11,7 +11,7 @@ activate  virtual environment: source venv/bin/activate
 
 update your pip version: pip install --upgrade pip 
 
-install  the following packages: pip install notebook, numpy, scipy, tensorflow, tensorflow-probability, matplotlib
+install  the following packages: pip install notebook numpy scipy tensorflow tensorflow-probabilitymatplotlib
 
 lunch jupyter notebook       : jupyter notebook
 
